@@ -4,7 +4,7 @@ Create and Deploy Star Notary DApp
 ##Requirements
 1. Specify the Truffle version and OpenZeppelin version used in the project.
    Truffle v5.0.4  
-   npm view openzeppelin-solidity --version  ==>  6.4.1
+   npm view openzeppelin-solidity --version  ==>  6.4.1  
 
 2. Your ERC-721 Token Name
 
